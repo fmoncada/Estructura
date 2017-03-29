@@ -1,0 +1,10 @@
+https://blog.codecentric.de/en/2011/11/testing-and-mocking-of-static-methods-in-java/
+https://docs.oracle.com/javase/tutorial/essential/io/check.html
+http://stackoverflow.com/questions/17939556/how-to-get-the-execution-directory-path-in-java
+https://sourcemaking.com/design_patterns/template_method
+
+#Sort big files
+https://github.com/lemire/externalsortinginjava/blob/master/src/main/java/com/google/code/externalsorting/ExternalSort.java
+
+
+http://www.codeodor.com/index.cfm/2007/5/14/Re-Sorting-really-BIG-files---the-Java-source-code/1208
